@@ -7,6 +7,7 @@ const propertyData = [
         propertyType: "Apartment",
         date: "2023-08-10",
         houseName: "Cozy Haven",
+        image: "https://picsum.photos/300/210"
     },
     {
         id: 2,
@@ -16,6 +17,7 @@ const propertyData = [
         propertyType: "House",
         date: "2023-08-15",
         houseName: "Tranquil Retreat",
+        image: "https://picsum.photos/300/201"
     },
     {
         id: 3,
@@ -25,6 +27,7 @@ const propertyData = [
         propertyType: "Condo",
         date: "2023-08-20",
         houseName: "Elegant Residence",
+        image: "https://picsum.photos/300/202"
     },
     {
         id: 4,
@@ -34,6 +37,7 @@ const propertyData = [
         propertyType: "Apartment",
         date: "2023-08-10",
         houseName: "Charming Abode",
+        image: "https://picsum.photos/300/203"
     },
     {
         id: 5,
@@ -43,6 +47,7 @@ const propertyData = [
         propertyType: "House",
         date: "2023-08-15",
         houseName: "Serene House",
+        image: "https://picsum.photos/300/234"
     },
     {
         id: 6,
@@ -52,6 +57,7 @@ const propertyData = [
         propertyType: "Townhouse",
         date: "2023-08-20",
         houseName: "Harbor View Residence",
+        image: "https://picsum.photos/300/211"
     },
     {
         id: 7,
@@ -61,6 +67,7 @@ const propertyData = [
         propertyType: "Studio",
         date: "2023-09-01",
         houseName: "Regal Manor",
+        image: "https://picsum.photos/300/200"
     },
     {
         id: 8,
@@ -70,6 +77,7 @@ const propertyData = [
         propertyType: "Apartment",
         date: "2023-09-10",
         houseName: "Zen Residence",
+        image: "https://picsum.photos/300/213"
     },
     {
         id: 9,
@@ -79,6 +87,7 @@ const propertyData = [
         propertyType: "House",
         date: "2023-09-20",
         houseName: "Oceanfront Retreat",
+        image: "https://picsum.photos/300/209"
     },
     {
         id: 10,
@@ -88,6 +97,7 @@ const propertyData = [
         propertyType: "Condo",
         date: "2023-09-01",
         houseName: "Modern Oasis",
+        image: "https://picsum.photos/300/214"
     },
     {
         id: 11,
@@ -97,6 +107,7 @@ const propertyData = [
         propertyType: "Apartment",
         date: "2023-09-10",
         houseName: "Stamford Bridge",
+        image: "https://picsum.photos/300/215"
     },
     {
         id: 12,
@@ -105,7 +116,8 @@ const propertyData = [
         placeAddress: "789 Greed island, Sydney",
         propertyType: "House",
         date: "2023-09-20",
-        houseName: "Anfield"
+        houseName: "Anfield",
+        image: "https://picsum.photos/300/210"
     },
     {
         id: 13,
@@ -115,6 +127,7 @@ const propertyData = [
         propertyType: "Condo",
         date: "2023-09-01",
         houseName: "Old Trafford",
+        image: "https://picsum.photos/300/218"
     },
     {
         id: 14,
@@ -124,6 +137,7 @@ const propertyData = [
         propertyType: "Apartment",
         date: "2023-09-10",
         houseName: "San Siro",
+        image: "https://picsum.photos/300/219"
     },
 ];
 

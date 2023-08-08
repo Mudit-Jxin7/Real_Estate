@@ -1,10 +1,11 @@
 const Card = (props) => {
-  const { price, placeAddress, place, propertyType, houseName, date } = props;
+  const { price, placeAddress, place, propertyType, houseName, date, image } =
+    props;
 
   return (
     <div className="w-1/5 bg-white rounded-lg shadow-md">
       <img
-        src="https://picsum.photos/300/200" // Using a random image from Lorem Picsum
+        src={image} // Using a random image from Lorem Picsum
         alt="Property"
         className="w-full h-auto mx-auto"
       />
